@@ -10,7 +10,7 @@ This Python script is designed to convert integer numbers into their Babylonian 
 
 **Note on Babylonian Notation**
 This script uses a simplified version of Babylonian notation. Specifically, the rule of stacking symbols in sets of three has not been implemented. 
-*Ce script utilise une version simplifiée de la notation babylonienne. En particulier, la règle qui consiste à rassembler les symboles par étages de trois n'a pas été mise en œuvre pour simplifier le code.*
+*Ce script utilise une version simplifiée de la notation babylonienne. En particulier, la règle qui consiste à rassembler les symboles par étages de trois n'a pas été mise en œuvre pour simplifier le code. L'écriture est linéaire.*
 Quelques commentaires à destination des professeurs par l'IREM de Montpellier ici : [https://irem.edu.umontpellier.fr/files/2018/05/explications-tablettes.pdf](https://irem.edu.umontpellier.fr/files/2018/05/explications-tablettes.pdf)
 
 ## Usage
