@@ -18,8 +18,9 @@ Run the script and follow the on-screen instructions to convert a number into Ba
 *Exécutez le script et suivez les instructions à l'écran pour convertir un nombre en notation babylonienne.*
 
 **Contributing**
-Merci à Marie-Line Chabanol qui nous a transmis les activités, et à l'IREM de Montpellier.
 This project is part of the larger CSEN | GT3 initiative. Contributions are welcome, especially for educational purposes. For major changes, please open an issue first to discuss what you would like to change.
+
+Merci à Marie-Line Chabanol qui nous a transmis les activités, ainsi qu'à l'IREM de Montpellier.
 
 **License**
 This project is licensed under CC BY-NC
