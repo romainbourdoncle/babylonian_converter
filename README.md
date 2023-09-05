@@ -1,6 +1,8 @@
 # Babylonian_Converter
 Python script to convert integers to Babylonian notation. Created to support activities from the GT3|CSEN Mathematical Problem Bank.
 
+![tablette](./docs/tab.png)
+
 **Description**
 This Python script is designed to convert integer numbers into their Babylonian representation. It was created to support work on activities from the GT3|CSEN Mathematical Problem Bank.
 
