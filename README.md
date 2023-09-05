@@ -19,7 +19,6 @@ Run the script and follow the on-screen instructions to convert a number into Ba
 
 **Contributing**
 This project is part of the larger CSEN | GT3 initiative. Contributions are welcome, especially for educational purposes. For major changes, please open an issue first to discuss what you would like to change.
-
 Merci à Marie-Line Chabanol qui nous a transmis les activités, ainsi qu'à l'IREM de Montpellier.
 
 **License**
