@@ -21,7 +21,7 @@ If you are using Windows, you can simply download then execute the provided .exe
 [Download the App](https://github.com/romainbourdoncle/babylonian_converter/releases/download/Babylonian_converter1.0.0/babylonian_converter5.exe)
 
 **For macOS Users**
-If you are using macOS, you need to run the code via the terminal. Please check the file named *babylonian_converter5.py* in the **src** folder for source code. Run the script and follow the on-screen instructions to convert a number into Babylonian notation.
+If you are using macOS, you need to run the code via the terminal. Please check the file named *babylonian_converter5.py* in the **src** folder for source code. Run the script and follow the on-screen instructions.
 
 *Exécutez le script depuis un terminal et suivez les instructions à l'écran pour convertir un nombre en notation babylonienne.*
 
