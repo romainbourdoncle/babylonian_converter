@@ -14,7 +14,8 @@ This script uses a simplified version of Babylonian notation. Specifically, the 
 Ce script utilise une version simplifiée de la notation babylonienne. En particulier, la règle qui consiste à rassembler les symboles par étages de trois n'a pas été mise en œuvre pour simplifier le code. 
 Quelques commentaires à destination des professeurs par l'IREM de Montpellier ici : [https://irem.edu.umontpellier.fr/files/2018/05/explications-tablettes.pdf](https://irem.edu.umontpellier.fr/files/2018/05/explications-tablettes.pdf)
 
-###Usage
+##Usage
+
 **For Windows Users**
 If you are using Windows, you can simply download then execute the provided .exe file to run the application. Follow the on-screen instructions to convert a number into Babylonian notation.
 
