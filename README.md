@@ -23,7 +23,7 @@ If you are using Windows, you can simply download then execute the provided .exe
 If you are using macOS, you need to run the code via the terminal. Please check the file named *babylonian_converter5.py* in the **src** folder for source code. Run the script and follow the on-screen instructions.
 *Exécutez le script depuis un terminal et suivez les instructions à l'écran pour convertir un nombre en notation babylonienne.*
 
-### Contributing
+**Contributing**
 This project is part of the larger CSEN | GT3 initiative. Contributions are welcome, especially for educational purposes. For major changes, please open an issue first to discuss what you would like to change.
 *Merci à Marie-Line Chabanol qui nous a transmis les activités, ainsi qu'à l'IREM de Montpellier.*
 
