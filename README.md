@@ -22,4 +22,4 @@ This project is part of the larger CSEN | GT3 initiative. Contributions are welc
 Merci à Marie-Line Chabanol qui nous a transmis les activités, ainsi qu'à l'IREM de Montpellier.
 
 **License**
-This project is licensed under CC BY-NC
+This project is licensed under CC BY-NC.
