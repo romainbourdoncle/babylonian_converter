@@ -25,7 +25,7 @@ If you are using macOS, you need to run the code via the terminal. Please check 
 
 **Contributing**
 This project is part of the larger CSEN | GT3 initiative. Contributions are welcome, especially for educational purposes. For major changes, please open an issue first to discuss what you would like to change.
-*Merci à Marie-Line Chabanol qui nous a transmis les activités, ainsi qu'à l'IREM de Montpellier.*
+*Un grand merci à Marie-Line Chabanol pour avoir transmis les activités, initialement créées par l'IREM de Montpellier, qui ont servi de base à ce projet.*
 
 **License**
 This project is licensed under CC BY-NC.
