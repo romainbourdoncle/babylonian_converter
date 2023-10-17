@@ -6,8 +6,7 @@ Python script to convert integers to Babylonian notation. Created to support act
 ## Description
 This script converts integer numbers into their Babylonian representation. It was created to support work on activities from the GT3|CSEN Mathematical Problem Bank.
 
-**Note on Babylonian Notation**
-This script uses a simplified version of Babylonian notation. Specifically, the rule of stacking symbols in sets of three has not been implemented. 
+**Note on Babylonian Notation**: this script uses a simplified version of Babylonian notation. Specifically, the rule of stacking symbols in sets of three has not been implemented. 
 
 [Cliquez ici pour voir ce README en français](README_FR.md)
 
