@@ -6,10 +6,10 @@ def chunk_to_babylonian(n):
     tens_count = n // 10
     unit_count = n % 10
     
-    # Gérer les dizaines
+    # gérer les dizaines
     representation += ten * tens_count
     
-    # Gérer les unités
+    # gérer les unités
     representation += unit * unit_count
     
     return representation
