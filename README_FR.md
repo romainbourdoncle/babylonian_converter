@@ -15,7 +15,7 @@ Si vous utilisez Windows, vous pouvez simplement télécharger puis exécuter le
 [Télécharger l'application](https://github.com/romainbourdoncle/babylonian_converter/releases/download/Babylonian_converter1.0.0/babylonian_converter5.exe)
 
 **Pour les utilisateurs macOS**
-Si vous utilisez macOS, vous devez exécuter le code via le terminal. Veuillez consulter le fichier nommé ```babylonian_converter5.py``` dans le dossier **src** pour le code source. Exécuter le script et suivre les instructions à l'écran.
+Si vous utilisez macOS, vous devez exécuter le code via le terminal. Télécharger le fichier nommé ```babylonian_converter5.py``` dans le dossier **src**. Exécuter le script et suivre les instructions à l'écran.
 
 **Contribuer**
 Un grand merci à Marie-Line Chabanol pour avoir transmis les activités, initialement créées par l'IREM de Montpellier, qui ont servi de base à ce projet.
