@@ -1,5 +1,5 @@
 # Babylonian-Converter
-[Cliquez ici pour voir ce README en français](README_FR.md)
+[Cliquez ici pour voir ce README en français](README.md)
 
 Python script to convert integers to Babylonian notation. Created to support activities from the GT3|CSEN Mathematical Problem Bank.
 
