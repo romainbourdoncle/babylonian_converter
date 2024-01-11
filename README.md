@@ -2,7 +2,7 @@
 
 [Click here to view this README in English](README_ENG.md)
 
-Ce script Python est conçu pour convertir les nombres entiers en leur représentation babylonienne. Il a été créé pour accompagner le travail sur des activités issues de la [problémathèque](https://www.problematheque-csen.fr/), une banque de problèmes mathématiques collaborative proposée par le GT3|CSEN.
+Ce script Python est conçu pour convertir les nombres entiers en leur représentation babylonienne. Il a été créé pour accompagner le travail sur des activités issues de la [problémathèque](https://www.problematheque-csen.fr/){:target="_blank"}, une banque de problèmes mathématiques collaborative proposée par le GT3|CSEN.
 
 ![tablette](./docs/tab.png)
 
